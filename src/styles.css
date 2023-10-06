@@ -11,3 +11,7 @@
 a{
   text-decoration: none;
 }
+
+hr {
+  border-color: rgba(194, 188, 188, 0.549);
+}
