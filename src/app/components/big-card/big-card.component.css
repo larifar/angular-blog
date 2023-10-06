@@ -1,0 +1,23 @@
+.container__big-card{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 400px;
+  height: 500px;
+  margin: 0 .9rem;
+}
+
+.big-card__photo{
+  width: 100%;
+}
+
+.big-card__title> h1{
+  margin: .7rem 0;
+  font-size: 24px;
+}
+
+.big-card__description > p > a{
+  color: #626262;
+}
+
